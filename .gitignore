@@ -1,0 +1,30 @@
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# PHP dependencies
+/vendor/
+
+# Logs
+*.log
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.old
+*.sql.gz
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Private uploads and local data
+private_uploads/
+
