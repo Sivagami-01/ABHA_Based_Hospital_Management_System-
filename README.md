@@ -70,7 +70,6 @@ Keep `.env` private and never commit real credentials. Use synthetic data for lo
 
 ## Authors
 
-- Sivagami G
-- Madhumitha S
+- Sivagami G & Madhumitha S
 
-SCSVMV University
+SCSVMV 
